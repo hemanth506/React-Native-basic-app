@@ -1,2 +1,2 @@
-# React-Native-basic-app
-A todo app to learn the basic of react-native
+# React-Native-Todo-app
+A todo app developed to learn the basic of react-native
